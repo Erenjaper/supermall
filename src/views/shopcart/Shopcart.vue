@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name:'shopcart'
+  name:'Shopcart'
 }
 </script>
   

@@ -29,7 +29,7 @@
 import tabbar from "components/common/tabbar/Tabbar";
 import tabbarItem from "components/common/tabbar/TabbarItem";
 export default {
-  name:'mainTabbar',
+  name:'MainTabbar',
   components: { tabbar,tabbarItem }
 }
 </script>
